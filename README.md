@@ -1,2 +1,2 @@
 # Recipe-Team
-This is a dummy repository
+This is the repository for the week 2 recipe task
